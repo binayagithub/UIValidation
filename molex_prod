@@ -1,0 +1,4 @@
+SENSOR_NAME=Corrosion,Gas,Temperature,Vibration
+SENSOR_GROUP_ID=CorrosionGroup,GasGroup,TemperatureGroup,VibrationGroup
+SENSOR_GROUP_NAME=CorrosionGroup,GasGroup,TemperatureGroup,VibrationGroup
+SENSOR_FREQUENCY_MINUTES=1,2,5,10,15,30,45,720
